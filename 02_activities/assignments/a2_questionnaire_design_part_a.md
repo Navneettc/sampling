@@ -31,16 +31,12 @@ Sampling units - Each indiviual that is selected for the survey.
 Observation units - Same as sampling units, the individuals selected for the survey.
 
 Sampling strategy and Justification :
-Simple Random Sampling is the strategy I will use. By using simple random sampling techniques to select employees I will randomly selecte employees from each stratum without any specific pattern, ensuring every employee in the stratum has an equal chance of being selected.
 
-In addition to simple random sampling, we can break the target population and conduct stratified sampling by diving people by departments, years of service, type of employment and do more directed surverys to capture a better representation.
-
-The strategy is to get responses from random employees from different departments within the same sampling frame and target population. This will provide a response and representation from multiple deparments and allow for good collection of responses.
+Simple Random Sampling is the strategy I will use. By using simple random sampling techniques to select employees I will randomly select employees from each stratum without any specific pattern, ensuring every employee in the stratum has an equal chance of being selected.
 
 Justification:
 
-Once we get the responses, we will be able to determine if this is an overall issue and how the sampling units from the sampling frame truly feel. Since we are using the randome sampling we are reducing bias and or skewing the data.
-
+This will allow for equal representation to ensure that every eligible employee has an equal opportunity to participate in the survey. This avoids biases that could occur if certain groups or individuals are systematically excluded or overrepresented.
 
 ```
 
