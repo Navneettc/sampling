@@ -32,11 +32,7 @@ Observation units - Same as sampling units, the individuals selected for the sur
 
 Sampling strategy and Justification :
 
-Simple Random Sampling is the strategy I will use. By using simple random sampling techniques to select employees I will randomly select employees from each stratum without any specific pattern, ensuring every employee in the stratum has an equal chance of being selected.
-
-Justification:
-
-This will allow for equal representation to ensure that every eligible employee has an equal opportunity to participate in the survey. This avoids biases that could occur if certain groups or individuals are systematically excluded or overrepresented.
+The sampling strategy I will be using is the Simple Random Strategy (SRS). By using simple random sampling technique, it will ensure that all every entry- and lower-level employee in the company have an equal chance of being selected for the survey. This means that the sample I collect will be representative of the entire population of interest, allowing me to generalize findings to the broader group. Using simple random sampling means every employee has an equal chance of being chosen, regardless of their department, tenure, or personal characteristics. This ensures diverse perspectives on turnover are captured without bias.
 
 ```
 
