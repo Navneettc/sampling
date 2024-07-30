@@ -31,12 +31,8 @@ Sampling units - Each indiviual that is selected for the survey.
 Observation units - Same as sampling units, the individuals selected for the survey.
 
 Sampling strategy and Justification :
-The strategy is to get responses from random employees from different departments within the same samepling frame and target population. This will provide a response and representation from multiple deparments and allow for good collection of responses.
 
-Justification:
-
-Once we get the responses, we will be able to determine if this is an overall issue and how the sampling units from the sampling frame truly feel. Since we are using the sample units from the sample frame, we will get accurate results.
-
+The sampling strategy I will be using is the Simple Random Strategy (SRS). By using simple random sampling technique, it will ensure that all every entry- and lower-level employee in the company have an equal chance of being selected for the survey. This means that the sample I collect will be representative of the entire population of interest, allowing me to generalize findings to the broader group. Using simple random sampling means every employee has an equal chance of being chosen, regardless of their department, tenure, or personal characteristics. This ensures diverse perspectives on turnover are captured without bias.
 
 ```
 
